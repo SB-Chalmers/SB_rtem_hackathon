@@ -9,12 +9,12 @@
 * Win hackathon
 
 ## Workshop ideas
-[Github](https://kinsta.com/knowledgebase/what-is-github/)
-[ReadTheDocs](https://readthedocs.org/)
-[JSON/Python](https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/)
+* [Github](https://kinsta.com/knowledgebase/what-is-github/)  
+* [ReadTheDocs](https://readthedocs.org/)  
+* [JSON/Python](https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/)  
 
 ## Data models
-[Brick Schema](https://brickschema.org/)  
-[Project haystack](https://project-haystack.org/)  
+* [Brick Schema](https://brickschema.org/)  
+* [Project haystack](https://project-haystack.org/)  
 
 ## References
