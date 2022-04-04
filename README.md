@@ -1,6 +1,16 @@
 # SB RTEM Hackathon
 [SB RTEM Hackathon](https://www.rtemhackathon.com/)
 
+## Project team
+Try editing this document and add your name to the list! 
+
+1. There is a pencil icon on the top right that should allow you to edit. 
+2. Add your name to the list below. 
+3. Add a description below to the commit 
+4. and click on commit changes.
+
+* Sanjay
+
 ## Things to do
 * Fill in Doodle(Choodle?)
 * Submit the registration form
