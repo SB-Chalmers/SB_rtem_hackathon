@@ -1,2 +1,2 @@
-# SB_rtem_hackathon
-SB RTEM Hackathon
+# SB RTEM Hackathon
+[SB RTEM Hackathon](https://www.rtemhackathon.com/)
