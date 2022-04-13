@@ -31,3 +31,10 @@ Try editing this document and add your name to the list!
 
 ## References
 [MarkDown Guide](https://www.markdownguide.org/extended-syntax/)
+
+## Working with Git and GitHub (WIP)
+* Clone this repository using `git clone`
+* Make changes using your preferred editor
+* Stage changes
+* Commit
+* Push
