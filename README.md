@@ -12,6 +12,7 @@ Try editing this document and add your name to the list!
 ```
 * Sanjay
 * Toivo
+* Xinyue
 
 ## Things to do
 * Fill in Doodle(Choodle?)
