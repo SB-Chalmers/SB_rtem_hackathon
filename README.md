@@ -11,6 +11,7 @@ Try editing this document and add your name to the list!
 4. and click on commit changes.
 ```
 * Sanjay
+* Toivo
 
 ## Things to do
 * Fill in Doodle(Choodle?)
