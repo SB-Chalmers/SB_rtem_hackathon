@@ -10,7 +10,7 @@ Try editing this document and add your name to the list!
 3. Add a description below to the commit 
 4. and click on commit changes.
 ```
-* Sanjay
+* Sanjay Somanath
 * Toivo Säwén
 
 ## Things to do
