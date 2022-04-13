@@ -16,7 +16,7 @@ Try editing this document and add your name to the list!
 * Xinyue Wang
 
 ## Things to do
-* Fill in Doodle(Choodle?)
+~~* Fill in Doodle(Choodle?)~~
 * Submit the registration form
 * Get everyone onto Github
 * Come up with ideas
