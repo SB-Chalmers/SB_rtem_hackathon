@@ -32,9 +32,11 @@ Try editing this document and add your name to the list!
 ## References
 [MarkDown Guide](https://www.markdownguide.org/extended-syntax/)
 
-## Working with Git and GitHub (WIP)
+## Working with Git and GitHub
 * Clone this repository using `git clone`
 * Make changes using your preferred editor
-* Stage changes
-* Commit
-* Push
+* Stage files with changes `git add .`
+* Commit changes with a descriptive commit message `git commit -m"my descriptive commit message"`
+* Pull changes from GitHub `git pull --rebase`
+* Resolve merge conflicts (if any)
+* Push changes to GitHub `git push`
