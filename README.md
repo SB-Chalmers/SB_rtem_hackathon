@@ -14,6 +14,7 @@ Try editing this document and add your name to the list!
 * Toivo Säwén
 * Mark Kyeredey Ansah
 * Xinyue Wang
+* Alina Galimshina
 
 ## Things to do
 * ~~Fill in Doodle(Choodle?)~~
