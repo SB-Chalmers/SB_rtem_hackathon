@@ -35,6 +35,10 @@ Try editing this document and add your name to the list!
 ## References
 [MarkDown Guide](https://www.markdownguide.org/extended-syntax/)
 
+## RTEM Hackathon API documentation
+* [Youtube playlist to get started](https://youtube.com/playlist?list=PLsUM_lTo-HdyC6WZ_3w9inFJvGUo0tTxO)
+* https://onboard-data-python-client-api.readthedocs.io/en/latest/
+
 ## Working with Git and GitHub
 * Clone this repository using `git clone`
 * Make changes using your preferred editor
@@ -43,3 +47,17 @@ Try editing this document and add your name to the list!
 * Pull changes from GitHub `git pull --rebase`
 * Resolve merge conflicts (if any)
 * Push changes to GitHub `git push`
+
+## Getting started
+* run `python -m install -r requirements.txt`
+    * Advanced users: when adding new packages to the project, run `python -m pip freeze > requirements.txt` to update this file
+* Edit the `secrets/secrets.txt` file to include *TODO*
+
+## Linting
+* Linting is, in coding terms, an automatic process which checks code for issues
+* This project is using pylint
+* If you see red squiggles in the code, pylint is warning you about potential issue
+* 220504: pylint has not been set up more than the defaults in this project
+* Note that files need to be saved for linting to update
+
+## Access to API
