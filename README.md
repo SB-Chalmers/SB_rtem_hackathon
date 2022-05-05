@@ -38,6 +38,7 @@ Try editing this document and add your name to the list!
 ## RTEM Hackathon API documentation
 * [Youtube playlist to get started](https://youtube.com/playlist?list=PLsUM_lTo-HdyC6WZ_3w9inFJvGUo0tTxO)
 * https://onboard-data-python-client-api.readthedocs.io/en/latest/
+* Full API documentation is available after logging in at https://ny-rtem.com/
 
 ## Working with Git and GitHub
 * Clone this repository using `git clone`
@@ -49,9 +50,9 @@ Try editing this document and add your name to the list!
 * Push changes to GitHub `git push`
 
 ## Getting started
-* run `python -m install -r requirements.txt`
+* run `python -m pip install -r requirements.txt`
     * Advanced users: when adding new packages to the project, run `python -m pip freeze > requirements.txt` to update this file
-* Edit the `secrets/secrets.txt` file to include *TODO*
+* Edit the `secrets/secrets.txt` file to include API key (instructions below)
 
 ## Linting
 * Linting is, in coding terms, an automatic process which checks code for issues
@@ -61,3 +62,6 @@ Try editing this document and add your name to the list!
 * Note that files need to be saved for linting to update
 
 ## Access to API
+* At https://ny-rtem.com/, log in, and under account, go to API keys
+* Create a key with scope "building:read" and "general"
+* Create file `secrets/secrets.txt` and add the string to that file
