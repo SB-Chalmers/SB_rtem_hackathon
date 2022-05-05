@@ -1,0 +1,230 @@
+,id,org_id,name,address,sq_ft,image_src,bms_manufacturer,bms_product_name,bms_version,timezone,status,equip_count,point_count,info.org,info.floors,info.m2fend,info.satend,info.sunend,info.geoCity,info.geoState,info.m2fstart,info.satstart,info.sunstart,info.yearBuilt,info.geoCountry,info.weatherRef,info.customerType
+0,441,5,88737,,551143.0,,,,,America/New_York,LIVE,20,1293,,,,,,Bronx,NY,,,,,US,,Multifamily
+1,140,5,83483,,21869.0,,,,,America/New_York,LIVE,13,354,,,,,,New York,NY,,,,,US,,Commercial Office
+2,191,5,94414,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,Victor,NY,07:30,07:30,07:30,,US,,Commercial Retail
+3,231,5,89496,,,,,,,America/New_York,LIVE,4,51,,,,,,New York,NY,,,,,US,,
+4,248,5,116742,,127000.0,,,,,America/New_York,LIVE,7,34,,,,,,New York,NY,,,,,US,,Multifamily
+5,249,5,90366,,120000.0,,,,,America/New_York,LIVE,2,6,,,,,,New York,NY,,,,,US,,Commercial Retail
+6,434,5,129666,,56090.0,,,,,America/New_York,LIVE,10,163,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+7,271,5,80324,,32240.0,,,,,America/New_York,LIVE,13,182,,,23:00:00,23:00:00,23:00:00,New York,NY,06:00:00,06:00:00,06:00:00,,US,,College/University
+8,285,5,94400,,198057.0,,,,,America/New_York,LIVE,7,17,,,23:00,23:00,23:00,White Plains,NY,07:30,07:30,07:30,,US,,Commercial Retail
+9,297,5,94412,,198057.0,,,,,America/New_York,LIVE,8,24,,,23:00,23:00,23:00,Watertown,NY,07:30,07:30,07:30,,US,,Commercial Retail
+10,322,5,94411,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,New Hartford,NY,07:30,07:30,07:30,,US,,Commercial Retail
+11,317,5,128286,,35000.0,,,,,America/New_York,LIVE,2,38,,,,,,New York,NY,,,,,US,,Multifamily
+12,419,5,116399,,130000.0,,,,,America/New_York,LIVE,32,354,,,,,,New York,NY,,,,,US,,College/University
+13,375,5,97789,,232808.0,,,,,America/New_York,LIVE,4,159,,,,,,BRONX,NY,,,,,US,,Multifamily
+14,470,5,164423,,,,,,,America/New_York,LIVE,205,1140,,,,,,New York,NY,,,,,US,,Commercial Office
+15,426,5,76513,,80000.0,,,,,America/New_York,LIVE,92,959,,,,,,New York,NY,,,,,US,,Hospitality
+16,423,5,124540,,119710.0,,,,,America/New_York,LIVE,139,463,,,,,,Queens,NY,,,,,US,,Multifamily
+17,439,5,87722,,3000000.0,,,,,America/New_York,LIVE,1,1,,,,,,NYC,NY,,,,,US,,Commercial Office
+18,314,5,114460,,100000.0,,,,,America/New_York,LIVE,9,51,,,,,,New York,NY,,,,,US,,Commercial Office
+19,467,5,139252,,,,,,,America/New_York,LIVE,2,41,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+20,455,5,164994,,,,,,,America/New_York,LIVE,30,195,,,,,,Brooklyn,NY,,,,,US,,Chemicals
+21,105,5,79789,,56000.0,,,,,America/New_York,LIVE,14,34,,,,,,Kingston,NY,,,,,US,,Food/Beverage
+22,107,5,84869,,50000.0,,,,,America/New_York,LIVE,42,44,,,,,,New York,NY,,,,,US,,Commercial Office
+23,488,5,152000,,,,,,,America/New_York,LIVE,39,107,,,,,,New York,NY,,,,,US,,Commercial Office
+24,445,5,145732,,33220.0,,,,,America/New_York,LIVE,2,36,,,,,,New York,NY,,,,,US,,Multifamily
+25,417,5,78797,,1898155.0,,,,,America/New_York,LIVE,45,599,,,,,,New York,NY,,,,,US,,Commercial Office
+26,460,5,153255,,,,,,,America/New_York,LIVE,2,2,,,,,,Flushing,NY,,,,,US,,Healthcare
+27,472,5,130262,,,,,,,America/New_York,LIVE,14,101,,,,,,Corning,NY,,,,,US,,College/University
+28,442,5,150388,,205000.0,,,,,America/New_York,LIVE,26,69,,,,,,Rye,NY,,,,,US,,Multifamily
+29,118,5,73107,,275000.0,,,,,America/New_York,LIVE,122,258,Edison Properties,,,,,New York,NY,,,,,US,,Commercial Retail
+30,477,5,159950,,,,,,,America/New_York,LIVE,27,331,,,,,,New York,NY,,,,,US,,Healthcare
+31,443,5,149911,,600000.0,,,,,America/New_York,LIVE,10,119,,,,,,New York,NY,,,,,US,,College/University
+32,468,5,159109,,,,,,,America/New_York,LIVE,1,24,,,,,,Bronxville,NY,,,,,US,,Multifamily
+33,438,5,116350,,1500000.0,,,,,America/New_York,LIVE,221,1111,,,,,,New York,NY,,,,,US,,Commercial Office
+34,478,5,160783,,,,,,,America/New_York,LIVE,48,308,,,,,,Rochester,NY,,,,,US,,K-12 School
+35,395,5,85481,,171129.0,,,,,America/New_York,LIVE,9,86,,,,,,New York,NY,,,,,US,,Hospitality
+36,485,5,133932,,,,,,,America/New_York,LIVE,20,53,,,,,,New York,NY,,,,,US,,Commercial Office
+37,418,5,110897,,2800000.0,,,,,America/New_York,LIVE,393,586,,,,,,,,,,,,,,
+38,450,5,131034,,665000.0,,,,,America/New_York,LIVE,19,329,,,,,,New York,NY,,,,,US,,Commercial Office
+39,473,5,164864,,,,,,,America/New_York,LIVE,15,106,,,,,,Warsaw,NY,,,,,US,,K-12 School
+40,230,5,111479,,1040873.0,,,,,America/New_York,LIVE,91,188,,,,,,New York,NY,,,,,US,,Multifamily
+41,127,5,89089,,789079.0,,,,,America/New_York,LIVE,11,319,,,,,,Flushing,NY,,,,,US,,Multifamily
+42,469,5,144601,,,,,,,America/New_York,LIVE,2,33,,,,,,White Plains,NY,,,,,US,,Multifamily
+43,100,5,116723,,153750.0,,,,,America/New_York,LIVE,3,8,,,,,,New York,NY,,,,,US,,Multifamily
+44,452,5,128615,,1028336.0,,,,,America/New_York,LIVE,189,867,,,,,,New York,NY,,,,,US,,Commercial Office
+45,461,5,137940,,47092.0,,,,,America/New_York,LIVE,2,38,,,,,,New York,NY,,,,,US,,Commercial Retail
+46,489,5,163896,,,,,,,America/New_York,LIVE,85,113,,,,,,New York,NY,,,,,US,,Commercial Office
+47,99,5,113413,,869066.0,,,,,America/New_York,LIVE,126,262,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+48,98,5,68855,,2338000.0,,,,,America/New_York,LIVE,38,132,,54,,,,New York,NY,,,,1973,US,,Commercial Office
+49,479,5,163716,,,,,,,America/New_York,LIVE,50,268,,,,,,Pittsford,NY,,,,,US,,K-12 School
+50,474,5,164033,,,,,,,America/New_York,LIVE,22,197,,,,,,lewiston,NY,,,,,US,,Healthcare
+51,466,5,137257,,,,,,,America/New_York,LIVE,2,38,,,,,,Long Island City,NY,,,,,US,,Multifamily
+52,134,5,112620,,12000.0,,,,,America/New_York,LIVE,129,264,,,,,,New York,NY,,,,,US,,Commercial Office
+53,131,5,128313,,205000.0,,,,,America/New_York,LIVE,3,4,,,,,,Brooklyn,NY,,,,,US,,Commercial Retail
+54,130,5,104698,,145000.0,,,,,America/New_York,LIVE,16,181,,,,,,New York,NY,,,,,US,,K-12 School
+55,420,5,87261,,236000.0,,,,,America/New_York,LIVE,342,6068,,,,,,New York,NY,,,,,US,,Healthcare
+56,136,5,99315,,274096.0,,,,,America/New_York,LIVE,2,26,,,,,,Bronx,NY,,,,,US,,Multifamily
+57,475,5,158818,,,,,,,America/New_York,LIVE,16,145,,,,,,Canandaigua,NY,,,,,US,,College/University
+58,373,5,96938,,127577.0,,,,,America/New_York,LIVE,2,10,,,,,,New York,NY,,,,,US,,Multifamily
+59,176,5,90367,,150000.0,,,,,America/New_York,LIVE,3,7,,,,,,New York,NY,,,,,US,,Commercial Retail
+60,217,5,130079,,229154.0,,,,,America/New_York,LIVE,9,23,,,,,,New York,NY,,,,,US,,Commercial Office
+61,490,5,124556,,782298.0,,,,,America/New_York,LIVE,1,73,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+62,103,5,75216,,563391.0,,,,,America/New_York,LIVE,16,37,Jack Resnick & Sons,37,,,,New York,NY,,,,1969,US,,Commercial Office
+63,421,5,108774,,7960.0,,,,,America/New_York,LIVE,2,30,,,,,,New York,NY,,,,,US,,Multifamily
+64,476,5,122677,,110000.0,,,,,America/New_York,LIVE,3,3,,,,,,Woodside,NY,,,,,US,,Healthcare
+65,142,5,82119,,2400000.0,,,,,America/New_York,LIVE,12,42,,,,,,New York,NY,,,,,US,,Commercial Office
+66,462,5,144540,,76800.0,,,,,America/New_York,LIVE,2,45,,,,,,Bronx,NY,,,,,US,,Multifamily
+67,422,5,114249,,352360.0,,,,,America/New_York,LIVE,16,210,,,,,,Bronx,NY,,,,,US,,Multifamily
+68,503,5,145813,,,,,,,America/New_York,LIVE,35,157,,,,,,New York,NY,,,,,US,,Commercial Office
+69,385,5,92344,,180000.0,,,,,America/New_York,LIVE,13,72,,,,,,New York,NY,,,,,US,,Healthcare
+70,471,5,136558,,,,,,,America/New_York,LIVE,43,311,,,,,,Rochester,NY,,,,,US,,Healthcare
+71,108,5,86328,,,,,,,America/New_York,LIVE,6,6,,,,,,Yonkers,NY,,,,,US,,
+72,143,5,108998,,16903.0,,,,,America/New_York,LIVE,1,13,,,,,,Manhattan,NY,,,,,US,,Multifamily
+73,454,5,155776,,,,,,,America/New_York,LIVE,13,28,,,,,,New York,NY,,,,,US,,Commercial Office
+74,279,5,75620,,25000.0,,,,,America/New_York,LIVE,12,415,,,,,,,,,,,,,,
+75,481,5,124529,,,,,,,America/New_York,LIVE,27,285,,,,,,Queens,NY,,,,,US,,Healthcare
+76,101,5,75049,,20000.0,,,,,America/New_York,LIVE,70,1405,Fountain House,,,,,New York,NY,,,,,US,,Hospitality
+77,491,5,119313,,,,,,,America/New_York,LIVE,9,45,,,,,,New York,NY,,,,,US,,Multifamily
+78,492,5,122607,,,,,,,America/New_York,LIVE,43,182,,,,,,New York,NY,,,,,US,,Hospitality
+79,111,5,89522,,13512.0,,,,,America/New_York,LIVE,2,19,,,,,,New York,NY,,,,,US,,Multifamily
+80,109,5,88776,,357001.0,,,,,America/New_York,LIVE,31,220,,,,,,New York,NY,,,,,US,,Multifamily
+81,451,5,137244,,49428.0,,,,,America/New_York,LIVE,2,38,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+82,258,5,123183,,135000.0,,,,,America/New_York,LIVE,66,176,,,,,,New York City,NY,,,,,US,,Multifamily
+83,112,5,92894,,210000.0,,,,,America/New_York,LIVE,13,34,,,,,,New York,NY,,,,,US,,Commercial Office
+84,440,5,93400,,268000.0,,,,,America/New_York,LIVE,18,57,,,,,,New York,NY,,,,,US,,Commercial Office
+85,483,5,141633,,,,,,,America/New_York,LIVE,28,63,,,,,,Flushing,NY,,,,,US,,Healthcare
+86,113,5,116888,,63550.0,,,,,America/New_York,LIVE,12,16,,,,,,New York,NY,,,,,US,,Multifamily
+87,114,5,117460,,240900.0,,,,,America/New_York,LIVE,1,2,,,,,,Bronx,NY,,,,,US,,College/University
+88,119,5,73582,,98122.0,,,,,America/New_York,LIVE,111,1980,Diocese of Brooklyn,4,1700,1700,1700,Brooklyn,NY,900,900,900,1968,US,KNYBROOK210,Not For Profit
+89,200,5,111473,,1040873.0,,,,,America/New_York,LIVE,55,110,,,,,,New York,NY,,,,,US,,Multifamily
+90,117,5,68975,,179000.0,,,,,America/New_York,LIVE,26,127,,,,,,New York,NY,,,,,US,,Healthcare
+91,121,5,77439,,236067.0,,,,,America/New_York,LIVE,11,35,Jack Resnick & Sons,24,,,,New York,NY,,,,1929,US,,Commercial Office
+92,120,5,75506,,600000.0,,,,,America/New_York,LIVE,120,409,,,,,,New York,NY,,,,,US,,Commercial Office
+93,122,5,79790,,56000.0,,,,,America/New_York,LIVE,12,38,,,,,,Middletown,NY,,,,,US,,Food/Beverage
+94,484,5,113572,,699000.0,,,,,America/New_York,LIVE,12,83,,,,,,New York,NY,,,,,US,,Commercial Office
+95,110,5,89088,,789079.0,,,,,America/New_York,LIVE,17,252,,,,,,,,,,,,,,
+96,151,5,94395,,198057.0,,,,,America/New_York,LIVE,6,13,,,23:00,23:00,23:00,Nanuet,NY,07:30,07:30,07:30,,US,,Commercial Retail
+97,153,5,125921,,20025.0,,,,,America/New_York,LIVE,5,30,,,,,,Bronx,NY,,,,,US,,Multifamily
+98,129,5,103083,,1200000.0,,,,,America/New_York,LIVE,32,35,,,,,,New York,NY,,,,,US,,Commercial Office
+99,148,5,89097,,789079.0,,,,,America/New_York,LIVE,4,6,,,,,,Bronx,NY,,,,,US,,Multifamily
+100,115,5,130853,,1073894.0,,,,,America/New_York,LIVE,29,105,,,,,,New York,NY,,,,,US,,Commercial Office
+101,116,5,128312,,205000.0,,,,,America/New_York,LIVE,3,4,,,,,,Brooklyn,NY,,,,,US,,Commercial Retail
+102,125,5,86373,,8500.0,,,,,America/New_York,LIVE,3,3,,,,,,Yonkers,NY,,,,,US,,Commercial Retail
+103,126,5,88777,,52096.0,,,,,America/New_York,LIVE,8,31,,,,,,Bronx,NY,,,,,US,,Multifamily
+104,486,5,133939,,,,,,,America/New_York,LIVE,63,66,,,,,,New York,NY,,,,,US,,Commercial Office
+105,465,5,123771,,470000.0,,,,,America/New_York,LIVE,54,414,,,,,,New York,NY,,,,,US,,Commercial Office
+106,132,5,94415,,198057.0,,,,,America/New_York,LIVE,7,16,,,23:00,23:00,23:00,Hudson,NY,07:30,07:30,07:30,,US,,Commercial Retail
+107,124,5,85326,,700000.0,,,,,America/New_York,LIVE,1,5,,,,,,Queens,NY,,,,,US,,Commercial Retail
+108,135,5,92332,,200000.0,,,,,America/New_York,LIVE,2,5,,,,,,New York,NY,,,,,US,,Commercial Retail
+109,487,5,144812,,667000.0,,,,,America/New_York,LIVE,94,185,,,,,,New York,NY,,,,,US,,Commercial Office
+110,138,5,108366,,15750.0,,,,,America/New_York,LIVE,2,28,,,,,,Bronx,NY,,,,,US,,Multifamily
+111,137,5,92406,,221704.0,,,,,America/New_York,LIVE,23,217,,,,,,Brooklyn,NY,,,,,US,,Commercial Office
+112,128,5,93623,,252105.0,,,,,America/New_York,LIVE,5,95,,,,,,Bronx,NY,,,,,US,,Multifamily
+113,141,5,84481,,1325000.0,,,,,America/New_York,LIVE,41,82,,47,,,,New York,NY,,,,1971,US,,Commercial Office
+114,145,5,125854,,43299.0,,,,,America/New_York,LIVE,6,35,,,,,,Bronx,NY,,,,,US,,Multifamily
+115,147,5,94422,,198057.0,,,,,America/New_York,LIVE,5,18,,,23:00,23:00,23:00,Niagara Falls,NY,07:30,07:30,07:30,,US,,Commercial Retail
+116,149,5,110938,,31152.0,,,,,America/New_York,LIVE,3,37,,,,,,Manhattan,NY,,,,,US,,Multifamily
+117,171,5,136271,,23400.0,,,,,America/New_York,LIVE,3,32,,,,,,New York,NY,,,,,US,,Multifamily
+118,146,5,92485,,281755.0,,,,,America/New_York,LIVE,41,363,,,,,,New York,NY,,,,,US,,Commercial Office
+119,162,5,82141,,373700.0,,,,,America/New_York,LIVE,179,1224,,,16:00:00,,20:30:00,Hudson,NY,06:30:00,,10:00:00,,US,,K-12 School
+120,163,5,102854,,20000.0,,,,,America/New_York,LIVE,3,31,,,,,,Manhattan,NY,,,,,US,,Multifamily
+121,165,5,108235,,144000.0,,,,,America/New_York,LIVE,7,23,,,,,,Fairport,NY,,,,,US,,Commercial Retail
+122,168,5,86375,,900000.0,,,,,America/New_York,LIVE,9,230,,,,,,Bronx,NY,,,,,US,,Healthcare
+123,172,5,94408,,198057.0,,,,,America/New_York,LIVE,6,14,,,23:00,23:00,23:00,Syracuse,NY,07:30,07:30,07:30,,US,,Commercial Retail
+124,173,5,94399,,198057.0,,,,,America/New_York,LIVE,4,12,,,23:00,23:00,23:00,Staten Island,NY,07:30,07:30,07:30,,US,,Commercial Retail
+125,170,5,89091,,789079.0,,,,,America/New_York,LIVE,4,6,,,,,,Flushing,NY,,,,,US,,Multifamily
+126,167,5,108242,,144000.0,,,,,America/New_York,LIVE,5,21,,,,,,Depew,NY,,,,,US,,Commercial Retail
+127,160,5,108224,,144000.0,,,,,America/New_York,LIVE,6,23,,,,,,Penfield,NY,,,,,US,,Commercial Retail
+128,174,5,126521,,250000.0,,,,,America/New_York,LIVE,22,234,,,,,,New York,NY,,,,,US,,Commercial Office
+129,175,5,94418,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,Rochester,NY,07:30,07:30,07:30,,US,,Commercial Retail
+130,169,5,103622,,552860.0,,,,,America/New_York,LIVE,20,81,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+131,164,5,80409,,56000.0,,,,,America/New_York,LIVE,12,38,,,,,,Watertown,NY,,,,,US,,Food/Beverage
+132,179,5,79792,,56000.0,,,,,America/New_York,LIVE,11,36,,,,,,Poughkeepsie,NY,,,,,US,,Food/Beverage
+133,197,5,136534,,75165.0,,,,,America/New_York,LIVE,2,38,,,,,,New York,NY,,,,,US,,Multifamily
+134,139,5,114402,,9000.0,,,,,America/New_York,LIVE,5,5,,,,,,Ossining,NY,,,,,US,,Food/Beverage
+135,192,5,99314,,274096.0,,,,,America/New_York,LIVE,2,20,,,,,,Bronx,NY,,,,,US,,Multifamily
+136,194,5,86988,,1700000.0,,,,,America/New_York,LIVE,6,16,,,,,,New York,NY,,,,,US,,Commercial Office
+137,177,5,108237,,144000.0,,,,,America/New_York,LIVE,7,38,,,,,,Cheektowaga,NY,,,,,US,,Commercial Retail
+138,181,5,90423,,115020.0,,,,,America/New_York,LIVE,53,113,,,,,,New York,NY,,,,,US,,Multifamily
+139,183,5,99317,,274096.0,,,,,America/New_York,LIVE,2,30,,,,,,Bronx,NY,,,,,US,,Multifamily
+140,185,5,108594,,2486000.0,,,,,America/New_York,LIVE,26,209,,,,,,New York,NY,,,,,US,,Commercial Office
+141,187,5,94420,,198057.0,,,,,America/New_York,LIVE,8,24,,,23:00,23:00,23:00,Vestal,NY,07:30,07:30,07:30,,US,,Commercial Retail
+142,188,5,108233,,144000.0,,,,,America/New_York,LIVE,6,22,,,,,,Glenville,NY,,,,,US,,Commercial Retail
+143,190,5,82295,,228690.0,,,,,America/New_York,LIVE,110,777,,,15:00:00,,,Amsterdam,NY,05:30:00,,,,US,,K-12 School
+144,180,5,112065,,12285.0,,,,,America/New_York,LIVE,4,49,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+145,206,5,89090,,789079.0,,,,,America/New_York,LIVE,5,7,,,,,,Bayside,NY,,,,,US,,Multifamily
+146,207,5,93944,,44627.0,,,,,America/New_York,LIVE,34,70,,,,,,New York,NY,,,,,US,,Commercial Retail
+147,201,5,96582,,259000.0,,,,,America/New_York,LIVE,8,283,,,22:00:00,19:00:00,19:00:00,Guilderland,NY,05:00:00,06:30:00,06:30:00,,US,,Not For Profit
+148,202,5,96581,,259000.0,,,,,America/New_York,LIVE,13,379,,,22:00:00,19:00:00,19:00:00,East Greenbush,NY,05:00:00,06:30:00,06:30:00,,US,,Not For Profit
+149,205,5,114400,,8500.0,,,,,America/New_York,LIVE,7,7,,,,,,Thornwood,NY,,,,,US,,Food/Beverage
+150,210,5,94406,,198057.0,,,,,America/New_York,LIVE,7,28,,,23:00,23:00,23:00,Saratoga Springs,NY,07:30,07:30,07:30,,US,,Commercial Retail
+151,215,5,89096,,789079.0,,,,,America/New_York,LIVE,2,23,,,,,,Flushing,NY,,,,,US,,Multifamily
+152,216,5,99313,,274096.0,,,,,America/New_York,LIVE,2,43,,,,,,Bronx,NY,,,,,US,,Multifamily
+153,220,5,94407,,198057.0,,,,,America/New_York,LIVE,8,24,,,23:00,23:00,23:00,Cicero,NY,07:30,07:30,07:30,,US,,Commercial Retail
+154,224,5,99316,,274096.0,,,,,America/New_York,LIVE,2,25,,,,,,Bronx,NY,,,,,US,,Multifamily
+155,225,5,94404,,198057.0,,,,,America/New_York,LIVE,8,24,,,23:00,23:00,23:00,Horseheads,NY,07:30,07:30,07:30,,US,,Commercial Retail
+156,226,5,108226,,144000.0,,,,,America/New_York,LIVE,6,31,,,,,,New Hartford,NY,,,,,US,,Commercial Retail
+157,236,5,108230,,144000.0,,,,,America/New_York,LIVE,7,28,,,,,,Cicero,NY,,,,,US,,Commercial Retail
+158,234,5,97171,,121758.0,,,,,America/New_York,LIVE,16,21,,,,,,New York,NY,,,,,US,,Commercial Office
+159,232,5,99291,,50000.0,,,,,America/New_York,LIVE,4,47,,,,,,Mamaroneck,NY,,,,,US,,Multifamily
+160,246,5,116875,,360000.0,,,,,America/New_York,LIVE,5,46,,,,,,New York,NY,,,,,US,,Commercial Office
+161,250,5,89763,,120721.0,,,,,America/New_York,LIVE,3,3,,,,,,New York,NY,,,,,US,,Multifamily
+162,252,5,94403,,198057.0,,,,,America/New_York,LIVE,8,20,,,23:00,23:00,23:00,Brooklyn,NY,07:30,07:30,07:30,,US,,Commercial Retail
+163,253,5,89094,,789079.0,,,,,America/New_York,LIVE,3,5,,,,,,Flushing,NY,,,,,US,,Multifamily
+164,256,5,135785,,1993000.0,,,,,America/New_York,LIVE,3,30,,,,,,Pearl River,NY,,,,,US,,Manufacturing
+165,247,5,92495,,47040.0,,,,,America/New_York,LIVE,13,51,,,,,,New York,NY,,,,,US,,Healthcare
+166,259,5,82294,,228690.0,,,,,America/New_York,LIVE,218,1681,,,15:00:00,,,Broadalbin,NY,05:30:00,,,,US,,K-12 School
+167,242,5,77738,,364000.0,,,,,America/New_York,LIVE,4,14,,22,,,,New York,NY,,,,,US,,Commercial Office
+168,263,5,133602,,88800.0,,,,,America/New_York,LIVE,2,64,,,,,,Port Chester,NY,,,,,US,,Multifamily
+169,264,5,108229,,144000.0,,,,,America/New_York,LIVE,4,17,,,,,,Rochester,NY,,,,,US,,Commercial Retail
+170,272,5,89093,,789079.0,,,,,America/New_York,LIVE,2,19,,,,,,Flushing,NY,,,,,US,,Multifamily
+171,274,5,108236,,144000.0,,,,,America/New_York,LIVE,7,38,,,,,,West Seneca,NY,,,,,US,,Commercial Retail
+172,275,5,118981,,522000.0,,,,,America/New_York,LIVE,6,9,,,,,,New York,NY,,,,,US,,Commercial Office
+173,277,5,94410,,198057.0,,,,,America/New_York,LIVE,6,22,,,23:00,23:00,23:00,Latham,NY,07:30,07:30,07:30,,US,,Commercial Retail
+174,278,5,125541,,31220.0,,,,,America/New_York,LIVE,5,38,,,,,,Manhattan,NY,,,,,US,,Multifamily
+175,282,5,80413,,56000.0,,,,,America/New_York,LIVE,12,37,,,,,,Ithaca,NY,,,,,US,,Food/Beverage
+176,265,5,95843,,,,,,,America/New_York,LIVE,5,5,,,,,,Saratoga Springs,NY,,,,,US,,
+177,286,5,85492,,900000.0,,,,,America/New_York,LIVE,54,1183,,,,,,New York,NY,,,,,US,,Commercial Office
+178,288,5,85918,,100000.0,,,,,America/New_York,LIVE,14,332,,,,,,Brooklyn,NY,,,,,US,,Commercial Retail
+179,294,5,108223,,144000.0,,,,,America/New_York,LIVE,7,38,,,,,,Fishkill,NY,,,,,US,,Commercial Retail
+180,296,5,68983,,367995.0,,,,,America/New_York,LIVE,16,57,NYU Langone,15,,,,New York,NY,,,,2012,US,,Healthcare
+181,298,5,125920,,42000.0,,,,,America/New_York,LIVE,6,35,,,,,,Bronx,NY,,,,,US,,Multifamily
+182,301,5,99466,,250000.0,,,,,America/New_York,LIVE,7,22,,,,,,New York,NY,,,,,US,,Multifamily
+183,302,5,92409,,625844.0,,,,,America/New_York,LIVE,21,146,,,,,,New York,NY,,,,,US,,Hospitality
+184,307,5,80412,,56000.0,,,,,America/New_York,LIVE,12,47,,,,,,Rochester,NY,,,,,US,,Food/Beverage
+185,311,5,124522,,390000.0,,,,,America/New_York,LIVE,25,221,,,,,,New York,NY,,,,,US,,Healthcare
+186,313,5,90425,,115860.0,,,,,America/New_York,LIVE,4,98,,,,,,New York,NY,,,,,US,,Multifamily
+187,324,5,96512,,145079.0,,,,,America/New_York,LIVE,53,1108,,,,,,Bronx,NY,,,,,US,,Food/Beverage
+188,326,5,138707,,11500.0,,,,,America/New_York,LIVE,3,31,,,,,,New York,NY,,,,,US,,Multifamily
+189,327,5,94396,,198057.0,,,,,America/New_York,LIVE,6,12,,,23:00,23:00,23:00,Mohegan Lake,NY,07:30,07:30,07:30,,US,,Commercial Retail
+190,330,5,104435,,200000.0,,,,,America/New_York,LIVE,11,89,,,,,,Valhalla,NY,,,,,US,,College/University
+191,332,5,90275,,120000.0,,,,,America/New_York,LIVE,4,7,,,,,,New York,NY,,,,,US,,Commercial Retail
+192,341,5,99318,,274096.0,,,,,America/New_York,LIVE,2,27,,,,,,Bronx,NY,,,,,US,,Multifamily
+193,349,5,132641,,90000.0,,,,,America/New_York,LIVE,3,61,,,,,,Mount Vernon,NY,,,,,US,,Multifamily
+194,350,5,94424,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,Syracuse,NY,07:30,07:30,07:30,,US,,Commercial Retail
+195,354,5,82140,,373700.0,,,,,America/New_York,LIVE,197,2507,,,16:00:00,,20:30:00,Hudson,NY,06:30:00,,10:00:00,,US,,K-12 School
+196,361,5,108222,,144000.0,,,,,America/New_York,LIVE,5,20,,,,,,Greece,NY,,,,,US,,Commercial Retail
+197,372,5,94405,,198057.0,,,,,America/New_York,LIVE,6,14,,,23:00,23:00,23:00,Johnson City,NY,07:30,07:30,07:30,,US,,Commercial Retail
+198,371,5,95480,,176584.0,,,,,America/New_York,LIVE,7,64,,,,,,New York,NY,,,,,US,,Multifamily
+199,378,5,96583,,259000.0,,,,,America/New_York,LIVE,19,444,,,22:00:00,19:00:00,19:00:00,Clifton Park,NY,05:00:00,06:30:00,06:30:00,,US,,Not For Profit
+200,380,5,80411,,56000.0,,,,,America/New_York,LIVE,12,49,,,,,,Horseheads,NY,,,,,US,,Food/Beverage
+201,381,5,117228,,156250.0,,,,,America/New_York,LIVE,3,8,,,,,,Brooklyn,NY,,,,,US,,Multifamily
+202,396,5,91480,,22747.0,,,,,America/New_York,LIVE,22,272,,,,,,Brooklyn,NY,,,,,US,,Hospitality
+203,357,5,129887,,150000.0,,,,,America/New_York,LIVE,6,53,,,,,,Mamaroneck,NY,,,,,US,,Multifamily
+204,386,5,94421,,198057.0,,,,,America/New_York,LIVE,9,29,,,23:00,23:00,23:00,Kingston,NY,07:30,07:30,07:30,,US,,Commercial Retail
+205,387,5,96580,,259000.0,,,,,America/New_York,LIVE,38,713,,,22:00:00,19:00:00,19:00:00,Delmar,NY,05:00:00,06:30:00,06:30:00,,US,,Not For Profit
+206,389,5,68985,,338424.0,,,,,America/New_York,LIVE,24,384,NYU Langone,,00:00,00:00,00:00,New York,New York,00:00,00:00,00:00,1979,US,,Healthcare
+207,390,5,114399,,8500.0,,,,,America/New_York,LIVE,5,5,,,,,,Bedford Hills,NY,,,,,US,,Food/Beverage
+208,391,5,123698,,350000.0,,,,,America/New_York,LIVE,35,245,,,,,,New York,NY,,,,,US,,Healthcare
+209,392,5,127525,,399613.0,,,,,America/New_York,LIVE,6,14,,,,,,New York,NY,,,,,US,,Commercial Office
+210,394,5,80880,,725000.0,,,,,America/New_York,LIVE,59,386,,,18:00:00,18:00:00,18:00:00,New York,NY,06:00:00,06:00:00,06:00:00,,US,,Commercial Office
+211,393,5,145147,,1100000.0,,,,,America/New_York,LIVE,5,12,,,,,,New York,NY,,,,,US,,Commercial Office
+212,384,5,111478,,1040873.0,,,,,America/New_York,LIVE,84,168,,,,,,New York,NY,,,,,US,,Multifamily
+213,123,5,82176,,330000.0,,,,,America/New_York,LIVE,39,45,,9,,,,New York,NY,,,,,US,,Commercial Retail
+214,154,5,90200,,357297.0,,,,,America/New_York,LIVE,8,26,,,,,,New York,NY,,,,,US,,Multifamily
+215,155,5,108238,,144000.0,,,,,America/New_York,LIVE,9,24,,,,,,Troy,NY,,,,,US,,Commercial Retail
+216,157,5,79791,,56000.0,,,,,America/New_York,LIVE,13,35,,,,,,Syracuse,NY,,,,,US,,Food/Beverage
+217,158,5,114403,,9000.0,,,,,America/New_York,LIVE,5,5,,,,,,Tarrytown,NY,,,,,US,,Food/Beverage
+218,166,5,94423,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,Batavia,NY,07:30,07:30,07:30,,US,,Commercial Retail
+219,184,5,108764,,52782.0,,,,,America/New_York,LIVE,3,34,,,,,,Manhattan,NY,,,,,US,,Multifamily
+220,214,5,97593,,12000.0,,,,,America/New_York,LIVE,4,72,,,,,,New York,NY,,,,,US,,Multifamily
+221,239,5,86468,,450000.0,,,,,America/New_York,LIVE,11,24,,,,,,Bronx,NY,,,,,US,,K-12 School
+222,260,5,108227,,144000.0,,,,,America/New_York,LIVE,8,34,,,,,,Rome,NY,,,,,US,,Commercial Retail
+223,316,5,108232,,144000.0,,,,,America/New_York,LIVE,36,59,,,,,,Blasdell,NY,,,,,US,,Commercial Retail
+224,353,5,94413,,198057.0,,,,,America/New_York,LIVE,7,19,,,23:00,23:00,23:00,Henrietta,NY,07:30,07:30,07:30,,US,,Commercial Retail
+225,370,5,95457,,421316.0,,,,,America/New_York,LIVE,5,22,,,,,,New York,NY,,,,,US,,Hospitality
+226,383,5,79528,,75000.0,,,,,America/New_York,LIVE,11,362,Simone Property Dev,4,20:00:00,,,Purchase,New York,04:00:00,,,1971,US,,Commercial Office
+227,398,5,109188,,860000.0,,,,,America/New_York,LIVE,26,295,,,,,,New York,NY,,,,,US,,Commercial Office
+228,399,5,97151,,140400.0,,,,,America/New_York,LIVE,8,23,,,,,,New York,NY,,,,,US,,Commercial Office
