@@ -1,3 +1,4 @@
 secrets/*
 .idea/
 .ipynb_checkpoints/
+venv/
