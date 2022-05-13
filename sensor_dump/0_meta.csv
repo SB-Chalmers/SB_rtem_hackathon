@@ -1,0 +1,4 @@
+,id,building_id,last_updated,first_updated,device,network_device,objectId,name,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,state_text,equip_id
+0,200969,169,1573965900000.0,1542344400000.0,,,,,Boiler 1 HWR_Temperature,F,,2,149.17,Hot Water Return Temperature,92,1,4fcc2552269a54d587b38828c39654a2,nyserda+0000103622+boiler1+Boiler 1 HWR_Temperature,,18541
+1,200991,169,1573965900000.0,1542344400000.0,,,,,Boiler 2 HWR_Temperature,F,,2,149.17,Hot Water Return Temperature,92,1,285ff162579926be5f75323c241d7876,nyserda+0000103622+boiler2+Boiler 2 HWR_Temperature,,18543
+2,200995,169,1573965900000.0,1542344400000.0,,,,,Boiler 3 HWR_Temperature,F,,2,149.36,Hot Water Return Temperature,92,1,84ebfb1c9aae51cfd7d5a12fb9ffd3b7,nyserda+0000103622+boiler3+Boiler 3 HWR_Temperature,,18544

@@ -1,0 +1,10 @@
+,id,building_id,last_updated,first_updated,device,network_device,objectId,name,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,state_text,equip_id
+0,200981,169,1573965900000.0,1542344400000.0,,,,,HWS_Setpoint,F,,2,50,Hot Water Supply Temperature Setpoint,131,1,d84ecda8f3216bd1cb1f9c7196323066,nyserda+0000103622+hotWaterPlant+HWS_Setpoint,,18542
+1,200982,169,1573965900000.0,1549989000000.0,,,,,HWS_Setpoint.1,F,,2,32,Hot Water Supply Temperature Setpoint,131,1,af2439a8b8ba85a3ab0de5365dd81a97,nyserda+0000103622+hotWaterPlant+HWS_Setpoint.1,,18542
+2,200983,169,1573965900000.0,1542344400000.0,,,,,HWS_Setpoint.2,F,,2,50,Hot Water Supply Temperature Setpoint,131,1,98b9917862ab471ac3fad80cba26bd38,nyserda+0000103622+hotWaterPlant+HWS_Setpoint.2,,18542
+3,200984,169,1573965900000.0,1542344400000.0,,,,,HWS_Temperature,F,,2,160.69,Hot Water Supply Temperature,88,1,f7e97f3c66589eb3195a666b8ff7d37c,nyserda+0000103622+hotWaterPlant+HWS_Temperature,,18542
+4,200985,169,1573965900000.0,1542344400000.0,,,,,HWS_Temperature.1,F,,2,173.30,Hot Water Supply Temperature,88,1,e526e52912cb38f96d9a3a8d9416a010,nyserda+0000103622+hotWaterPlant+HWS_Temperature.1,,18542
+5,200986,169,1573965900000.0,1542344400000.0,,,,,HWS_Temperature.2,F,,2,149.17,Hot Water Supply Temperature,88,1,a4b6b37730738f9e043ee9082aeb88d5,nyserda+0000103622+hotWaterPlant+HWS_Temperature.2,,18542
+6,200987,169,1573965900000.0,1542344400000.0,,,,,Supply Temperature,F,,2,168.38,Hot Water Supply Temperature,88,1,d7587619fead6ddd76141b05f0fac0dd,nyserda+0000103622+hotWaterPlant+Supply Temperature,,18542
+7,200988,169,1573965900000.0,1542344400000.0,,,,,Supply Temperature.1,F,,2,161.49,Hot Water Supply Temperature,88,1,f58359668a931ed83930b0da0e23fc5e,nyserda+0000103622+hotWaterPlant+Supply Temperature.1,,18542
+8,200989,169,1573965900000.0,1542344400000.0,,,,,Supply Temperature.2,F,,2,166.55,Hot Water Supply Temperature,88,1,e583c0fb2ac6fb98907adddeaa8661e1,nyserda+0000103622+hotWaterPlant+Supply Temperature.2,,18542

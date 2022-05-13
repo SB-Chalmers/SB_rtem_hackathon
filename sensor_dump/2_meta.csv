@@ -1,0 +1,5 @@
+,id,building_id,last_updated,first_updated,device,network_device,objectId,name,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,state_text,equip_id
+0,200998,169,1573963814000.0,1542346689000.0,,,,,DW_Pump_1_03_Status,On/Off,,20,false,Status,121,11,240db3a9e18c1468dd1902a0fe20d469,nyserda+0000103622+domesticWaterPump1+DW_Pump_1_03_Status,,18545
+1,200999,169,1552660462000.0,1542348934000.0,,,,,DW_Pump_2_01_Status,On/Off,,20,false,Status,121,11,dc78c048f674fa62fc10582947d0d3a1,nyserda+0000103622+domesticWaterPump2+DW_Pump_2_01_Status,,18546
+2,201000,169,1573965900000.0,1542344400000.0,,,,,Fire Pump Status,On/Off,,20,false,Status,121,11,e25de5f28c0e18dc4069294e7f45885a,nyserda+0000103622+pump-fire+Fire Pump Status,,18547
+3,201001,169,1555944691000.0,1542344425000.0,,,,,Sump Pump Status,On/Off,,20,false,Status,121,11,2342003d2563ce9e48961ab78e65ac53,nyserda+0000103622+sumpPump+Sump Pump Status,,18548
